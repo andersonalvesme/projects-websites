@@ -1,0 +1,12 @@
+version: '2'
+services:
+    websites:
+        image: ambientum/php:7.3-nginx
+        container_name: websites
+        volumes:
+            - .:/var/www/app
+        ports:
+            - "8080:8080"
+        environment:
+            - APP_ENV=local
+            - APP_KEY=base64:CjrQ0MzJsASL1tWlVTZQKvT+HfqVMHe6xXrvLdiLZa8=
