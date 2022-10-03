@@ -20,17 +20,17 @@ Some images from project.
 ### Cronus project
 
 <kbd>
-<img src="https://github.com/andersonalvesme/website/blob/master/_readme_images/full_site_cronus.png" alt="Cronus project">
+<img src="https://github.com/andersonalvesme/projects-websites/blob/master/_readme_images/full_site_cronus.png" alt="Cronus project">
 </kbd>
 
 ### Onee project
 
 <kbd>
-<img src="https://github.com/andersonalvesme/website/blob/master/_readme_images/full_site_onee.png" alt="Onee project">
+<img src="https://github.com/andersonalvesme/projects-websites/blob/master/_readme_images/full_site_onee.png" alt="Onee project">
 </kbd>
 
 ### PassUp project
 
 <kbd>
-<img src="https://github.com/andersonalvesme/website/blob/master/_readme_images/full_site_passup.png" alt="PassUp project">
+<img src="https://github.com/andersonalvesme/projects-websites/blob/master/_readme_images/full_site_passup.png" alt="PassUp project">
 </kbd>
